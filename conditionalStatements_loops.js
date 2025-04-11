@@ -89,7 +89,7 @@ for (let i = 0; i < numbers.length; i++) {
     console.log(numbers[i]);
 }
 
-console.log("Exercise 3.5");
+console.log("Exercise 3.5 - Find the max number in the array");
 const numbers2 = [3, 7, 2, 5, 10, 6];
 let max = numbers2[0]; 
 
@@ -152,12 +152,12 @@ let sum3 = 0;
 do {
   sum3 += i; 
   i++; 
-} while (i <= 100); 0
+} while (i <= 100); 
 
 console.log("Sum of numbers from 1 to 100:", sum3);
 
 
-console.log("Exercise 5.3");
+console.log("Exercise 5.3 ");
 
 const readline = require('readline');
 
