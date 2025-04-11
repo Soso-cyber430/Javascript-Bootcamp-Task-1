@@ -1,2 +1,3 @@
 # Javascript-Bootcamp-Task-1
 Javascript task 1 for codetribe bootcamp 
+This repository contains my solutions to the JavaScript Bootcamp Task. It includes exercises focused on conditional statements, loops (for, while, and do-while), and practical examples like calculating sums and handling user input. The exercises are designed to strengthen fundamental JavaScript skills, with a hands-on approach to solving problems. The task also includes a simple guessing game, allowing users to guess a number between 1 and 10, using a do-while loop. The code is written with clarity and simplicity in mind to demonstrate my understanding of basic JavaScript concepts.
